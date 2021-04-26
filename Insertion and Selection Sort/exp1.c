@@ -105,5 +105,4 @@ int main()
     printf("Total sum is: %d\n",sum);
 
   }
-
 }
